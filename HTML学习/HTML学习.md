@@ -19,8 +19,8 @@
 
 ### 1.1 实例解析
 
-<img src="../../../../Users/lenovo/Documents/Typora 文档/Typora img/save img/image-20230112145948343.png" alt="image-20230112145948343" style="zoom:80%;margin-left:1px" />
 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/9ea565f50d264f1d89b60c8402d6fd7e.png)
 
 
 - **<!DOCTYPE html>** 声明为 HTML5 文档
