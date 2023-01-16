@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/message/message",
+    "pages/phone/phone"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#2b4b6b",
+    "navigationBarTitleText": "日常生活",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+  "list": [
+    {
+      "pagePath": "pages/home/home",
+      "text": "首页",
+      "iconPath": "/images/home_before.png",
+      "selectedIconPath": "/images/home_after.png"
+
+    },
+    {
+      "pagePath": "pages/message/message",
+      "text": "消息",
+      "iconPath": "/images/message_before.png",
+      "selectedIconPath": "/images/message_after.png"
+    },
+    {
+      "pagePath": "pages/phone/phone",
+      "text": "联系我们",
+      "iconPath": "/images/phone_before.png",
+      "selectedIconPath": "/images/phone_after.png"
+    }
+  ]
+
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+
+}
